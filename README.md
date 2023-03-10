@@ -1,4 +1,4 @@
-# MERN stack frontent
+# MERN stack frontend
 This is a sample restaurant website built using React and Bootstrap. It includes pages for home, about, menu, contact, and a favorites page that requires authentication. Users can view the featured dishes on the home page, view the menu items and details, submit feedback, add and remove items from their favorites list, and log in and out.
 <br>
 The website is built using React, React-Bootstrap, React-Router, Redux, and json-server for the backend. The authentication is handled using jsonwebtoken and the json-server-auth package. The website is fully responsive and adapts to different screen sizes.
